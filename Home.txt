@@ -1,0 +1,7 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-16T11:36:15+01:00
+
+====== Home ======
+Angelegt Dienstag 16 Januar 2018
+
