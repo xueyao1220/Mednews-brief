@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-16T11:38:35+01:00
+
+====== News and Vies from CES2018 ======
+Angelegt Dienstag 16 Januar 2018
+
+Big Brands talk healthcare consumerization 
+For certain companies, like Johnson & Johnson, that means creating health products and services that aren’t just useful, but also easy to stomach.
+
+[[UnitedHealthcare]] and [[RallyHealtch]] 正在努力通过他们的数据和服务对于消费者更易获取。For the insurer, an example of this is tools that automatically alert patients when they’ve chosen a provider that’s out of network, and offers suggestions on lower-cost choices
+
+**Sensor and predictive analytics**
+家用传感器和连续检测设备在持续增长，也提到了一些现在远程监控所遇到的问题，比如如何打消老年人对于探测器可能侵犯他们隐私的担忧
+
+**Data management, analysis**
+
+**Blockchain’s healthcare promises**
+If the data is dynamic; if the current solution that they are going to have is fragmented,; and if there is a suspicion of malicious activity,” Finn said. “Those three things are like a red flag, where we could talk about when designing the system to add some blockchain technology, simply to protect the data.”
+
+Finn said the best applications of the technology she has seen so far in healthcare are those designed to track and prevent the sale of counterfeit drugs and devices. Jacobs — who cryptically noted that Optum “will take a leadership role” in the future of blockchain and healthcare — outlined his own ideas about where blockchain is most likely to make impact, among which were smart, legally-binding automated contracts for payments, and the transfer of health records. 
+
+**Brain-focused offerings take the main stage**
+To overcome a history of poor mental assessments and small molecule reliance, Gazzaley explained how personalized, adaptive experiences delivered through specially designed videogames — such as Akili Interactive Labs’ Project: Evo — can challenge the brain and change it for the better. This kind of digital therapeutic, which is currently undergoing the process to secure FDA clearance, could become a major breakthrough in cognitive wellness over the next decade, Gazzaley said.
+
+We don’t have this now, not in its full complexity, but I believe that this is the future about how technologies will allow us to address this cognition crisis and enhance our cognitive abilities,” he said. “When I’m asked to speak about AI, this is what I think about. This would be an AI that advances HI [human intelligence]; using this system to drive our own human intelligence to the next level.”
+
+**Policy, fee-for-service’s impact on telemedicine adoption**
+
+**New advances improve heart sensor’s reliability, data**
+
+**Partnerships bring more support to Samsung’s senior-focuses smartwatches**
+
+

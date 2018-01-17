@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-17T09:49:01+01:00
+
+====== Regulatory affaires ======
+Angelegt Mittwoch 17 Januar 2018
+
+**FDA Software Pre-Cert Pilot Program**
+The FDA recently announced its Software Pre-Cert Pilot Program, aimed at building a new regulatory process for software used in the prevention, treatment, and diagnosis of medical conditions. Under the program, medical software and digital health companies that are pre-certified by the FDA will be able to reach the market **without a lengthy regulatory approval process of pharmaceuticals and medical devices.** This new agile regulatory framework is a positive step towards ensuring patients and physicians don’t have to wait months or years to benefit from a new digital health innovation.
+{{.\pasted_image.png?width=500}}
+**It's going to be harder for medical devices to get to market and stay in the market int he EU**
+1. the medical device regulations and IVD regulations are officially in place in EU. From some perspectives, the recent changes in EU were long overdue. Another factor compounding the changes medical device companies will face with respect to the EU market is the contraction of number of nofitied body orginizations. As a result there are now nofified body resources avaiable to medical device companies seeking EU market clearance while at the same time, the regulations have changed and are more extensive. For those who plan to enter and or stay in the EU, it will be harder and taker longer to get these products to the EU market. 
+
+**Mad dash update ISO 13485 certification before deadline**
+ISO 13485 was revised back in early 2016. with this change, there was a three year grace to obtain certification 2016. Expect 2018 to be a busy busy year for rigistrars and auditiong organizations. 
+Like with the notified bodies, ISO registrars have also been more heavily scrutinized by the EU Competent Autorities. As a result, there has also been a reduction in the number of registrars. 
