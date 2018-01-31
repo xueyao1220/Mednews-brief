@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-01-31T09:49:15+01:00
+
+====== Software Development ======
+Angelegt Mittwoch 31 Januar 2018
+
+Notize am 31.01.2018
+1. finish the minimum function, add new function and feature once a time, keep the software working
+
+2. File Manager
+	a. some way to access the file's contents
+	b. provide a module that can retrieve a limited length, consecutive subsequence of the file's lines
+
+3. Operations
+	a. comprise those actions that the user can undertake to interact with the [[TextBrowser]]
+4. [[FileManager]]
+	a. supplies the contents of the file
+	b. not visiable to the users
+	c. [[TextBrowser]] interacts with the file system through the operating system
+	d. document is a percent that is supplied by the operating system actor
+5. Relationships 
+	a. associations
+	b. aggregation
+	c. generalization
+6. Design Concepts
+	a. Architectural design: The process of identifying and assigning the respnsibility for aspects of behavior to various moduls or components of a Software
+	b. Detail design: The process of specifying the behavior of each of the system components that you've identified during architectural design
+7. Design Notation
+	a. Pseudo code; Program design Language 
+	b. Structured programming 
+	c. Flowcharts, call graphs
+	d. decision tables
+8. Inssues with Design Validation
+	a. Independence of validators
+	b. Denpendence on design method
+	c. On-going versus after the fact
+9. Traditional  Design Documentation 
+	a. subcomponents
+		a. Process activities
+		b. Data and data flows
+	b. Control flow
+		a. control regime
+	c. Performance 
+	d. Resources
